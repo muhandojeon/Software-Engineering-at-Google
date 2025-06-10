@@ -38,3 +38,12 @@
   + 경험적인 내용
   + 이해가 되지 않는 내용
 * 각 장마다 정해진 서기가 공유 내용을 기록하고 저장소에 올려요
+
+## 벌금 시트 🤑
+
+* 묻지마 총 2회 가능
+* 불참 -10,000원
+* PR -5,000원
+* 지각 -5,000원
+
+[벌금 현황 시트](https://docs.google.com/spreadsheets/d/1Sw2KGhKraBHiP8AUm1D8eHpdXnCByfmqWeMIeReBfAo/edit?gid=0#gid=0)
